@@ -1,0 +1,40 @@
+{
+    "name": "PT. Grahamakmur Ciptapratama",
+    "short_name": "Grahamakmur Ciptapratama",
+    "scope": "https://www.grahamakmurciptapratama.com",
+    "start_url": "https://www.grahamakmurciptapratama.com",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#2B0C93",
+    "description": "Perusahaan pengelolah hasil perikanan",
+    "icons": [{
+        
+      "src": "https://1.bp.blogspot.com/-cN4zUubFSQY/YShGK7l5-QI/AAAAAAAAAEI/O9HrbER56O0hVdyED15A3konjR-nMeDdACLcBGAsYHQ/s48/logo.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-cN4zUubFSQY/YShGK7l5-QI/AAAAAAAAAEI/O9HrbER56O0hVdyED15A3konjR-nMeDdACLcBGAsYHQ/s72/logo.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-cN4zUubFSQY/YShGK7l5-QI/AAAAAAAAAEI/O9HrbER56O0hVdyED15A3konjR-nMeDdACLcBGAsYHQ/s96/logo.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-cN4zUubFSQY/YShGK7l5-QI/AAAAAAAAAEI/O9HrbER56O0hVdyED15A3konjR-nMeDdACLcBGAsYHQ/s144/logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-cN4zUubFSQY/YShGK7l5-QI/AAAAAAAAAEI/O9HrbER56O0hVdyED15A3konjR-nMeDdACLcBGAsYHQ/s168/logo.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-cN4zUubFSQY/YShGK7l5-QI/AAAAAAAAAEI/O9HrbER56O0hVdyED15A3konjR-nMeDdACLcBGAsYHQ/s320/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-cN4zUubFSQY/YShGK7l5-QI/AAAAAAAAAEI/O9HrbER56O0hVdyED15A3konjR-nMeDdACLcBGAsYHQ/s512/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+  }
